@@ -105,11 +105,20 @@ h1, h2 {
   background: darkred;
 }
 .contact-form input[type='text']{
+  width: 273px;
   padding: 5px 10px 5px 2px;
+  border-radius: 3px;
   border-radius: 3px;
 
 }
-contact-form textarea{
+.contact-form textarea{
   border-radius: 5px;
   margin-top: 15px;
+  font-family: sans-serif;;
+  margin-bottom: 15px;
+  font-size: 20px;
+}
+.content-section h1 {
+  text-align: left;
+  padding-left: 99px;
 }
